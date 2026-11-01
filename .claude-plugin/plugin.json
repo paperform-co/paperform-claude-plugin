@@ -1,0 +1,22 @@
+{
+  "name": "paperform",
+  "displayName": "Paperform",
+  "version": "1.0.0",
+  "description": "Build forms, run workflows and get documents signed from Claude, using Paperform, Stepper and Papersign with your Paperform account.",
+  "author": {
+    "name": "Paperform",
+    "url": "https://paperform.com"
+  },
+  "homepage": "https://paperform.com/mcp/",
+  "repository": "https://github.com/paperform-co/paperform-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://paperform.com/privacy/",
+  "keywords": [
+    "forms",
+    "workflows",
+    "automation",
+    "e-signatures",
+    "surveys",
+    "registration"
+  ]
+}
