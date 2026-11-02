@@ -2,7 +2,7 @@
   "name": "paperform",
   "displayName": "Paperform",
   "version": "1.0.0",
-  "description": "Build forms, run workflows and get documents signed from Claude, using Paperform, Stepper and Papersign with your Paperform account.",
+  "description": "Build forms, automate workflows and get documents signed from Claude, in your Paperform account.",
   "author": {
     "name": "Paperform",
     "url": "https://paperform.com"
@@ -17,6 +17,8 @@
     "automation",
     "e-signatures",
     "surveys",
-    "registration"
+    "registration",
+    "stepper",
+    "papersign"
   ]
 }
