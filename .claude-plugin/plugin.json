@@ -2,7 +2,7 @@
   "name": "paperform",
   "displayName": "Paperform",
   "version": "1.0.0",
-  "description": "Build forms, automate workflows and get documents signed from Claude, in your Paperform account.",
+  "description": "Build order, booking and quote forms that take payments, automate workflows and get documents signed, in your Paperform account.",
   "author": {
     "name": "Paperform",
     "url": "https://paperform.com"
@@ -13,10 +13,11 @@
   "privacyPolicyUrl": "https://paperform.com/privacy/",
   "keywords": [
     "forms",
+    "payments",
+    "bookings",
     "workflows",
     "automation",
     "e-signatures",
-    "surveys",
     "registration",
     "stepper",
     "papersign"

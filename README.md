@@ -1,18 +1,18 @@
 # Paperform for Claude
 
-Build forms, automate workflows and get documents signed from Claude, in your Paperform account. This plugin connects Claude to Paperform and adds skills that show Claude how to do each job well.
+Build order, booking and quote forms that take payments, automate what happens next and get documents signed, from Claude. This plugin connects Claude to your Paperform account and adds skills that show Claude how to do each job well.
 
 ## What you can ask for
 
-- **Forms.** Describe the form you need, or share a PDF or a list of questions, and Claude drafts it in your account. Refine the questions and layout together, then publish it when you're happy. Claude can also find your existing forms and summarise their responses.
-- **Workflows.** Ask Claude to act on new submissions or other triggers: add a row to Google Sheets, send an email, update your CRM. Claude builds the workflow, tests each step against your connected apps and explains what happened when a run fails.
-- **E-signatures.** Pick a template, tell Claude who signs and what to fill in, and it prepares the document and sends it once you confirm.
+- **Forms.** Describe what you need and Claude builds it in your account: an order form that takes payment, a booking form for 30-minute calls, a quote form that calculates the total. Add coupons, conditional logic and your colours and fonts. Connect your Stripe, Square, PayPal or Braintree account in Paperform and Claude does the rest. You can also turn a PDF or a list of questions into a form. Publish it when you're happy, then ask Claude to summarise the responses.
+- **Workflows.** Ask Claude to act on each new submission or other trigger: add a row to Google Sheets, send an email, update your CRM. Claude builds the workflow, tests each step against your connected apps, and explains what happened when a run fails.
+- **E-signatures.** Pick a template, tell Claude who signs and what to fill in, and it sends the document for signature once you confirm. Ask who still needs to sign, or cancel a document that went out by mistake.
 
 Try:
 
-- "Make a client intake form, add new clients to my Google Sheet, and send each one our engagement letter to sign."
-- "Summarise this week's responses to the customer feedback form."
-- "Turn this PDF into an online form I can share."
+- "Make an order form that takes payment and adds each order to my Google Sheet."
+- "Make a booking form for 30-minute calls, weekdays 9 to 5."
+- "Make a client intake form and send each new client our engagement letter to sign."
 
 ## Skills
 
