@@ -1,8 +1,8 @@
 {
   "name": "paperform",
   "displayName": "Paperform",
-  "version": "1.0.0",
-  "description": "Build order, booking and quote forms that take payments, automate workflows and get documents signed, in your Paperform account.",
+  "version": "1.0.1",
+  "description": "Create beautiful forms that do more. Take payments and bookings, get documents signed, automate what happens next and analyse the responses.",
   "author": {
     "name": "Paperform",
     "url": "https://paperform.com"

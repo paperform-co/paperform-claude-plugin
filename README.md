@@ -1,6 +1,6 @@
 # Paperform for Claude
 
-Build order, booking and quote forms that take payments, automate what happens next and get documents signed, from Claude. This plugin connects Claude to your Paperform account and adds skills that show Claude how to do each job well.
+Create beautiful forms that do more, from Claude. Take payments and bookings, get documents signed, automate what happens next and analyse the responses. This plugin connects Claude to your Paperform account and adds skills that show Claude how to do each job well.
 
 ## What you can ask for
 
